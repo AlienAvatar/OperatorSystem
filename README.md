@@ -1,8 +1,9 @@
 # OperatorSystem
-[https://www.amazon.cn/dp/B06XDGDSX8/ref=sr_1_1?ie=UTF8&qid=1552996365&sr=8-1&keywords=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86]
 图书所选
-
 ![avatar](/img/operation.jpg)
+亚马逊购买链接
+
+[https://www.amazon.cn/dp/B06XDGDSX8/ref=sr_1_1?ie=UTF8&qid=1552996365&sr=8-1&keywords=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86]
 
 根据书上的课后习题列答
 操作系统 精髓与设计原理 课后复习题
